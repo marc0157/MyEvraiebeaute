@@ -3,9 +3,9 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
   {
-    url: 'https://images.unsplash.com/photo-1445205170230-053b83016050',
-    title: 'Nueva Colección Primavera',
-    description: 'Descubre las últimas tendencias'
+    url: 'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wydWU0bzBtNXA4OWRxYWFtNXY3YmNub2plYnZlYzV2ZDU2NWZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9aSVde4cr0bHxswBZn/giphy.gif',
+    title: 'Vraie beauté',
+    description: 'Tú defines la moda, no ella a ti.'
   },
   {
     url: 'https://images.unsplash.com/photo-1441984904996-e0b6ba687e04',
