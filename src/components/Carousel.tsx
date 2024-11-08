@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
   {
-    url: 'https://unsplash.com/es/fotos/J6sWvXRATTQ',
+    url: 'https://images.unsplash.com/photo-1731074862099-f1c811000eac?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     title: 'Vraie Beauté',
     description: 'Tú defines la moda, no ella a ti.'
   },
