@@ -3,8 +3,8 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
   {
-    url: 'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wydWU0bzBtNXA4OWRxYWFtNXY3YmNub2plYnZlYzV2ZDU2NWZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9aSVde4cr0bHxswBZn/giphy.gif',
-    title: 'Vraie beauté',
+    url: 'https://ibb.co/Z88K6Yx',
+    title: 'Vraie Beauté',
     description: 'Tú defines la moda, no ella a ti.'
   },
   {
