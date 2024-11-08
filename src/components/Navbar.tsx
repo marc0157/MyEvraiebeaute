@@ -62,7 +62,7 @@ export default function Navbar({ darkMode, setDarkMode }: NavbarProps) {
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className={`md:hidden ${darkMode ? 'bg-black-100' : 'bg-gray-850'}`}>
+        <div className={`md:hidden ${darkMode ? 'bg-black' : 'bg-black-900'}`}>
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <a href="#inicio" className="block px-3 py-2 text-amber-400 neon-text hover:text-amber-300">Inicio</a>
             <a href="#productos" className="block px-3 py-2 text-amber-400 neon-text hover:text-amber-300">Productos</a>
